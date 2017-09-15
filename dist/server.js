@@ -46,10 +46,10 @@ class Server {
             next();
         });
         this.connection = mysql.createConnection({
-            host: "us-cdbr-iron-east-05.cleardb.net",
-            user: "b2bc51e289606e",
-            password: "be20cc51",
-            database: "heroku_3422c4713e5dc25"
+            host: "localhost",
+            user: "root",
+            password: "aywcz1q8",
+            database: "PRODUCTIVEFAMILIES"
         });
         this.connection.connect((err) => {
             if (err) {

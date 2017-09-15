@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f1d156-37ab-4d04-ab0b-eaf0e8fea9aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/server.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/inline.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/inline.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/main.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/main.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/polyfills.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/polyfills.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/styles.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/styles.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/vendor.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/public/vendor.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/routes/chef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/routes/dish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/routes/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/routes/temp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/views/index.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/chef.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/dish.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/route.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/temp.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/server.js" afterPath="$PROJECT_DIR$/dist/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server.ts" afterPath="$PROJECT_DIR$/src/server.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,12 +20,12 @@
       <file leaf-file-name="server.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/server.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="123" column="49" lean-forward="false" selection-start-line="123" selection-start-column="49" selection-end-line="123" selection-end-column="49" />
+            <state relative-caret-position="251">
+              <caret line="114" column="30" lean-forward="false" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
-                <marker date="1505463135000" expanded="true" signature="2682:2880" ph="..." />
-                <marker date="1505463135000" expanded="true" signature="2687:2880" ph="..." />
+                <marker date="1505465188000" expanded="true" signature="2682:2862" ph="..." />
+                <marker date="1505465188000" expanded="true" signature="2684:2862" ph="..." />
               </folding>
             </state>
           </provider>
@@ -225,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505242111897</updated>
-      <workItem from="1505242113464" duration="19977000" />
+      <workItem from="1505242113464" duration="20736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19977000" />
+    <option name="totallyTimeSpent" value="20736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -332,12 +298,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/server.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="123" column="49" lean-forward="false" selection-start-line="123" selection-start-column="49" selection-end-line="123" selection-end-column="49" />
+        <state relative-caret-position="251">
+          <caret line="114" column="30" lean-forward="false" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
-            <marker date="1505463135000" expanded="true" signature="2682:2880" ph="..." />
-            <marker date="1505463135000" expanded="true" signature="2687:2880" ph="..." />
+            <marker date="1505465188000" expanded="true" signature="2682:2862" ph="..." />
+            <marker date="1505465188000" expanded="true" signature="2684:2862" ph="..." />
           </folding>
         </state>
       </provider>

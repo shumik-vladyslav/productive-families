@@ -112,20 +112,20 @@ export class Server {
     });
 
     // configure db connection
-    // this.connection = mysql.createConnection({
-    //       host: "localhost",
-    //       user: "root",
-    //       password: "aywcz1q8",
-    //       database: "PRODUCTIVEFAMILIES"
-    //   });
-
-      // configure db connection
-      this.connection = mysql.createConnection({
-          host: "us-cdbr-iron-east-05.cleardb.net",
-          user: "b2bc51e289606e",
-          password: "be20cc51",
-          database: "heroku_3422c4713e5dc25"
+    this.connection = mysql.createConnection({
+          host: "localhost",
+          user: "root",
+          password: "aywcz1q8",
+          database: "PRODUCTIVEFAMILIES"
       });
+
+      // // configure db connection
+      // this.connection = mysql.createConnection({
+      //     host: "us-cdbr-iron-east-05.cleardb.net",
+      //     user: "b2bc51e289606e",
+      //     password: "be20cc51",
+      //     database: "heroku_3422c4713e5dc25"
+      // });
 
     // establish db connection
     this.connection.connect((err) =>{
